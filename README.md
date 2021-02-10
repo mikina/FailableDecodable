@@ -2,7 +2,7 @@
 
 Swift playground file and source code for the YT video "Swift failable Decodable".
 
-```
+```swift
 import UIKit
 
 let json = """
